@@ -120,7 +120,6 @@ int main() {
 ## OUTPUT
 $ ./sem.o 
 
-
 ![Screenshot 2025-04-30 150456](https://github.com/user-attachments/assets/2244957b-94e6-4799-866a-84a1f7374676)
 
 $ ipcs
